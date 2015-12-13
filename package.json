@@ -1,0 +1,17 @@
+{
+  "name": "ng-2.alpha.52.cebab-converter",
+  "version": "1.0.0",
+  "description": "CONVERT NG-2 ALPHA.52 BREAKING CHANGES =======================================",
+  "main": "app.js",
+  "dependencies": {
+    "file": "^0.2.2",
+    "mkpath": "^1.0.0",
+    "fs-readdir-recursive": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max.putilov@gmail.com",
+  "license": "ISC"
+}
